@@ -1,16 +1,13 @@
-## Hi there 👋
+## Sejam bem vindos ao nosso perfil 💜
 
-<!--
-**jadhy3fellps/Jadhy3fellps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Geovanna e do meu parceiro de perfil Fillipe 
 
-Here are some ideas to get you started:
+- Estamos estudando na [Alura](https://www.alura.com.br)📚
+  
+- Já criamos 2 projetos juntos com a ajuda da Alura 🥈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Vamos utilizar esse espaço para organizar e compartilhar nossos projetos desenvolvidos 🤗
+
+
+
+ ![image](https://github.com/jadhy3fellps/Jadhy3fellps/assets/173588316/ca402832-3839-4ea1-89a0-ecb4ea6680e2)
